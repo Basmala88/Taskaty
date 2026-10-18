@@ -17,6 +17,12 @@ Taskaty is a Flutter-based task management application that helps users organize
 - **Real-Time Updates:** Use Firebase streams to automatically reflect task data changes in the UI.
 - **Custom UI:** Use a custom-designed interface and reusable Flutter widgets.
 
+## Screenshots
+
+Here is a preview of the Taskaty application screens.
+
+![Taskaty App Screenshots](assets/taskaty_screens.png)
+
 ## Tech Stack
 
 - **Flutter** — Cross-platform UI development
